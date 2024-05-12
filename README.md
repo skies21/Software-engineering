@@ -12,7 +12,7 @@ git clone https://github.com/A1kawa1/TrainingBot.git
 ```
 
 ```
-cd TrainingBot
+cd TrainingBot/TrainingBot
 ```
 
 `Create a file .env in the directory at the docker-compose level.yaml in the likeness of example.env`  
