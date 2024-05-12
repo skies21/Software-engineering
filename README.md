@@ -8,7 +8,7 @@
 Clone the repository and go to it on the command line:
 
 ```
-git clone https://github.com/A1kawa1/TrainingBot.git
+git clone https://github.com/skies21/Software-engineering.git
 ```
 
 ```
